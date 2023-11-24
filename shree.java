@@ -1,4 +1,4 @@
-class Shree
+class shree
 {
 public static void main(String args[])
 {
